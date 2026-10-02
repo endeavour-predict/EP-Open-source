@@ -2,7 +2,7 @@
  * Copyright 2026 Endeavour Predict CIC.
  *
  *
- * This file is part of QFracture-2016 (http://qfracture.org, http://svn.clinrisk.co.uk/qfracture).
+ * This file is part of QFracture-2016 (http://qfracture.org).
  *
  * QFracture-2016 is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
